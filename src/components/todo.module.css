@@ -1,0 +1,6 @@
+.todo{
+    display: flex;
+  width: 5%;
+  justify-content: space-between;
+  margin: auto;
+}
